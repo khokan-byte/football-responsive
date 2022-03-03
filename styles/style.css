@@ -1,0 +1,18 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,500&display=swap');
+
+
+/* common style */
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    background-color: rgba(91, 91, 243, 0.562);
+}
+.container img{
+    width: 50%;
+}
